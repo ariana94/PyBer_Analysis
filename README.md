@@ -1,10 +1,10 @@
 # PyBer_Analysis
-##Overview
+## Overview
 purpose
 
-##Results
+## Results
 images
 differences in ride sharing data across cities
 
-##Summary
+## Summary
 three business recommendations to address disparities among city types
